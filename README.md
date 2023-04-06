@@ -24,7 +24,7 @@ cargo build --release
 
 This will generate an executable binary in ./target/release/.
 
-Usage
+## Usage
 Run the fractal generator with the desired depth, size, and number of random points:
 
 ```
@@ -38,8 +38,8 @@ Command line arguments:
 -n, --num-points: Number of random points (default: 100)
 The fractal will be displayed on the terminal. Adjust the terminal size to get the best viewing experience.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Contributing
+## Contributing
 Pull requests and issues are welcome. Please feel free to contribute to the project.
