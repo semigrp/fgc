@@ -1,4 +1,4 @@
-# fractal-Generator-cli
+# fractal-generator-cli-cli
 
 A command line tool to generate and display fractals on the terminal using Delaunay triangulation and recursion.
 
@@ -18,7 +18,7 @@ Installation
 Clone the repository and build the binary using Cargo:
 
 ```
-cd fractal-generator
+cd fractal-generator-cli
 cargo build --release
 ```
 
@@ -28,7 +28,7 @@ Usage
 Run the fractal generator with the desired depth, size, and number of random points:
 
 ```
-./target/release/fractal-generator -d 4 -s 100 -n 100
+./target/release/fractal-generator-cli -d 4 -s 100 -n 100
 ```
 
 Command line arguments:
