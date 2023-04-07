@@ -1,5 +1,5 @@
 [package]
-name = "fractal-generator"
+name = "fractal-generator-ci"
 version = "0.1.0"
 edition = "2021"
 
