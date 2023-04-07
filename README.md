@@ -1,4 +1,4 @@
-# fractal-generator-cli-cli
+# fractal-generator-cli
 
 A command line tool to generate and display fractals on the terminal using Delaunay triangulation and recursion.
 
